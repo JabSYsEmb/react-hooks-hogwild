@@ -13,6 +13,7 @@ const Nav = () => {
 			</span>
 		</div>
 	);
+	
 };
 
 export default Nav;
